@@ -37,7 +37,7 @@ gem 'omniauth'
 
 gem 'omniauth-facebook'
 
-gem 'dotenv-rails' 
+gem 'dotenv-rails'
 # ensures that environment variables are correctly loaded into the ENV hash in a secure manner
 
 group :development, :test do
